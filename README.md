@@ -14,4 +14,7 @@ Step Three:
 Navigate to API-Key/key.php and place your api key into $apiKey. 
 
 
+
+
+
 After you have finished those three steps you are ready to add the contact form to your website. 
